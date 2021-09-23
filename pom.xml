@@ -29,12 +29,12 @@
   </dependencies>
 
   <distributionManagement>
-    2 <repository>
-    3 <id>github</id>
-    4 <name>GitHub Packages</name>
-    5 <url>https://maven.pkg.github.com/zafrarifky/cse-workshop</url>
-    6 </repository>
-    7 </distributionManagement>
+    <repository>
+    <id>github</id>
+    <name>GitHub Packages</name>
+    <url>https://maven.pkg.github.com/zafrarifky/cse-workshop</url>
+    </repository>
+  </distributionManagement>
 
   <build>
     <plugins>
